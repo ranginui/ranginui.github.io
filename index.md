@@ -1,9 +1,8 @@
-<h2>{{ site.data.nav.docs_list_title }}</h2>
-<ul>
+<center>
    {% for item in site.data.nav.docs %}
-      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+      <span><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></span>
    {% endfor %}
-</ul>
+</center>
 
 ![Site logo](images/pttf.png)
 
