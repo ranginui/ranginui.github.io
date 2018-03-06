@@ -1,5 +1,6 @@
 ![Site logo](images/pttf.png)
 
+[Testimonials](testimonials.html)
 
 ## Welcome to GitHub Pages
 
