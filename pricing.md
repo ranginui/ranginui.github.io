@@ -4,6 +4,9 @@
    {% endfor %}
 </center>
 
+ 
+ 
+ 
 * Random questions : $250 per hour (min 15 mins)
 * Translations for people I dunno : $10 per word 
 * PTTFAAS single pack: $1000 plus court costs
