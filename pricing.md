@@ -12,3 +12,4 @@
 * PTTFAAS single pack: $1000 plus court costs
 * PTTFAAS double pack: $1800 plus court costs
 * Anyone who says Te Reo Māori is not a priority : Free
+* "But you're a good Māori" : $250 (automatic fee)
