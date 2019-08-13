@@ -164,50 +164,50 @@ body {
   </div>
   <div class="container left">
     <div class="content">
-      <h2>13/9 Whiro</h2>
-      <p>Anyone who set an assignment due now was taking the piss</p>
+      <h2>13/9 Oturu</h2>
+      <p>High energy day, a good day to finalise decisions (and go eeling) today you can pick the wine you will buy for the night of the 28/10</p>
     </div>
   </div>
  <div class="container right">
     <div class="content">
-      <h2>20/9 Tamatea-a-aio</h2>
-      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+      <h2>20/9 Korekore te piri ki Tangaroa</h2>
+      <p>A good day to reinvigorate, you should definitely buy Chris a coffee</p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>27/9 Tamatea-a-aio</h2>
-      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+      <h2>27/9 Mauri/h2>
+      <p>Low energy day, get an extension if stuff is due today. Tell the lecturer "I don't make the rules, the maramataka does" if they argue</p>
     </div>
   </div>
  <div class="container right">
     <div class="content">
-      <h2>4/10 Tamatea-a-aio</h2>
-      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+      <h2>4/10 Tamatea kai Ariki</h2>
+      <p>Plant some food today. Remember to bring in some Oreos for Hayley</p>
     </div>
   </div>
  <div class="container left">
     <div class="content">
-      <h2>11/10 Tamatea-a-aio</h2>
-      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+      <h2>11/10 Ohua/h2>
+      <p>Another good day for working, you can probably get like 6 assignments done today</p>
     </div>
   </div>
  <div class="container right">
     <div class="content">
-      <h2>18/10 Tamatea-a-aio</h2>
-      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+      <h2>18/10 Korekore te whīwhīa</h2>
+      <p>Just forget about it, this days a write off. Go to beer o'clock instead</p>
     </div>
   </div>
  <div class="container left">
     <div class="content">
-      <h2>25/10 Tamatea-a-aio</h2>
-      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+      <h2>25/10 Otane</h2>
+      <p>High energy day, and a day for giving back. Give back that last assignment 3 days early</p>
     </div>
   </div>
  <div class="container right">
     <div class="content">
-      <h2>28/10 Tamatea-a-aio</h2>
-      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+      <h2>28/10 Whiro</h2>
+      <p>Embrace the chaos of Whiro. Drinks are on Chris. You're finished! And we all couldn't be prouder of you.</p>
     </div>
   </div>
 </div> 
