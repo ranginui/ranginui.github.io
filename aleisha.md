@@ -165,7 +165,7 @@ body {
   <div class="container left">
     <div class="content">
       <h2>13/9 Oturu</h2>
-      <p>High energy day, a good day to finalise decisions today you can pick the wine you will buy for the night of the 28/10</p>
+      <p>High energy day, a good day to finalise decisions, today you can pick the wine you will buy for the night of the 28/10</p>
     </div>
   </div>
  <div class="container right">
