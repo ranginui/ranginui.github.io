@@ -188,7 +188,7 @@ body {
   </div>
  <div class="container left">
     <div class="content">
-      <h2>11/10 Ohua/h2>
+      <h2>11/10 Ohua</h2>
       <p>Another good day for working, you can probably get like 6 assignments done today</p>
     </div>
   </div>
