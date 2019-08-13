@@ -176,7 +176,7 @@ body {
   </div>
   <div class="container left">
     <div class="content">
-      <h2>27/9 Mauri/h2>
+      <h2>27/9 Mauri</h2>
       <p>Low energy day, get an extension if stuff is due today. Tell the lecturer "I don't make the rules, the maramataka does" if they argue</p>
     </div>
   </div>
