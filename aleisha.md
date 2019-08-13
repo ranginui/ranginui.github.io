@@ -165,13 +165,13 @@ body {
   <div class="container left">
     <div class="content">
       <h2>13/9 Oturu</h2>
-      <p>High energy day, a good day to finalise decisions (and go eeling) today you can pick the wine you will buy for the night of the 28/10</p>
+      <p>High energy day, a good day to finalise decisions today you can pick the wine you will buy for the night of the 28/10</p>
     </div>
   </div>
  <div class="container right">
     <div class="content">
       <h2>20/9 Korekore te piri ki Tangaroa</h2>
-      <p>A good day to reinvigorate, you should definitely buy Chris a coffee</p>
+      <p>A good day to reinvigorate and reflect/review. You should review your assignments and definitely buy Chris a coffee</p>
     </div>
   </div>
   <div class="container left">
