@@ -137,19 +137,19 @@ body {
  <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>2019-08-16 Te Rakau nui</h2>
+      <h2>16/8 Te Rakau nui</h2>
       <p>High Energy, get all your stuff done today Aleisha</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2019-08-23 Tangāroa-a-mua</h2>
+      <h2>23/8 Tangāroa-a-mua</h2>
       <p>Another high energy day, you got this Aleisah, smash it out</p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>2019-08-30 Whiro</h2>
+      <h2>30/8 Whiro</h2>
       <p>Anyone who set an assignment due now was taking the piss</p>
     </div>
   </div>
