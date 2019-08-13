@@ -27,3 +27,7 @@ Someone whose core is super soft
 > He’s just three …
 
 The “journalist” couldn’t finish this statement as he was promptly hit 16 times with a mere
+
+> Some one started an email to me with Kia ora, so I was typing out a reply saying “I’m not Māori please address me in English”. As I was about to hit send a felt an immense pain at the back of my head and someone yelled “English that, cracker”
+
+Perhaps the most fragile person in the world
