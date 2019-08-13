@@ -162,6 +162,54 @@ body {
       <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
     </div>
   </div>
+  <div class="container left">
+    <div class="content">
+      <h2>13/9 Whiro</h2>
+      <p>Anyone who set an assignment due now was taking the piss</p>
+    </div>
+  </div>
+ <div class="container right">
+    <div class="content">
+      <h2>20/9 Tamatea-a-aio</h2>
+      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>27/9 Tamatea-a-aio</h2>
+      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+    </div>
+  </div>
+ <div class="container right">
+    <div class="content">
+      <h2>4/10 Tamatea-a-aio</h2>
+      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+    </div>
+  </div>
+ <div class="container left">
+    <div class="content">
+      <h2>11/10 Tamatea-a-aio</h2>
+      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+    </div>
+  </div>
+ <div class="container right">
+    <div class="content">
+      <h2>18/10 Tamatea-a-aio</h2>
+      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+    </div>
+  </div>
+ <div class="container left">
+    <div class="content">
+      <h2>25/10 Tamatea-a-aio</h2>
+      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+    </div>
+  </div>
+ <div class="container right">
+    <div class="content">
+      <h2>28/10 Tamatea-a-aio</h2>
+      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+    </div>
+  </div>
 </div> 
 
 
