@@ -195,7 +195,7 @@ body {
  <div class="container right">
     <div class="content">
       <h2>18/10 Korekore te whīwhīa</h2>
-      <p>Just forget about it, this days a write off. Go to beer o'clock instead</p>
+      <p>Just forget about it, this day is a write off. Go to beer o'clock instead</p>
     </div>
   </div>
  <div class="container left">
