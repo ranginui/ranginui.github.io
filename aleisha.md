@@ -159,7 +159,7 @@ body {
    <div class="container right">
     <div class="content">
       <h2>6/9 Tamatea-a-aio</h2>
-      <p>A good day for gathering shellfish, hand your work in and go eat kūtai</p>
+      <p>Stay away from the moana, I know how you could do that, work on your assignments instead!</p>
     </div>
   </div>
   <div class="container left">
@@ -207,9 +207,10 @@ body {
  <div class="container right">
     <div class="content">
       <h2>28/10 Whiro</h2>
-      <p>Embrace the chaos of Whiro. Drinks are on Chris. You're finished! And we all couldn't be prouder of you.</p>
+      <p>Embrace the chaos of Whiro. Drinks are on Chris, Amber and Kris. You're finished! And we all couldn't be prouder of you.</p>
     </div>
   </div>
 </div> 
 
+<p> Disclaimer: this is my limited understanding of the maramataka adapted for this purpose</p>
 
