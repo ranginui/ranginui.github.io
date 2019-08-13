@@ -137,8 +137,8 @@ body {
  <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum..</p>
+      <h2>2019-08-16</h2>
+      <p>Te Rakau nui</p>
     </div>
   </div>
   <div class="container right">
