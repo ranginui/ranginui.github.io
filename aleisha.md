@@ -135,7 +135,7 @@ body {
 }
 </style>
 
-<iframe src="https://free.timeanddate.com/countdown/i6w2gs8q/n264/cf110/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pca0bfd5/tcfff/fs100/szw320/szh135/tatTime%20left%20until/tac000/tptTime%20since%20Aleisha%20finished%20Uni/tpc000/matAleisha%20is%20free%20from%20University/mac000/mpc000/iso2019-10-28T18:00:00" allowTransparency="true" frameborder="0" width="320" height="135"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i6w2gs8q/n264/cf110/cm0/cu4/ct0/cs0/cac000/cr0/ss0/cac000/cpc000/pca0bfd5/tcfff/fs100/tatTime%20left%20until/tac000/tptTime%20since%20Aleisha%20finished%20Uni/tpc000/matAleisha%20is%20free%20from%20University/mac000/mpc000/iso2019-10-30T18:00:00" allowTransparency="true" frameborder="0" width="320" height="125"></iframe>
 
  <div class="timeline">
   <div class="container left">
@@ -206,8 +206,8 @@ body {
   </div>
  <div class="container right">
     <div class="content">
-      <h2>28/10 Whiro</h2>
-      <p>Embrace the chaos of Whiro. Drinks are on Chris, Amber and Kris. You're finished! And we all couldn't be prouder of you.</p>
+      <h2>30/10 Hoata</h2>
+      <p>A pleasing night, the perfect night to finish. And you're finished! And we all couldn't be prouder of you.</p>
     </div>
   </div>
 </div> 
