@@ -32,6 +32,6 @@ The “journalist” couldn’t finish this statement as he was promptly hit 16 
 
 Perhaps the most fragile person in the world
 
-> I was just saying that white women are women of colour too when a blinding pain exploded in the back of my head. As I fell to the ground I saw someone holding a pouwhenua and they yelled "colour that".
+> I was just saying that white women are women of colour too when a blinding pain exploded in the back of my head. As I fell to the ground I saw someone holding a pouwhenua and they yelled "so what colour is that? ".
 
 A racist politician dog whistling the white supremacists. 
