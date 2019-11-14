@@ -31,3 +31,7 @@ The “journalist” couldn’t finish this statement as he was promptly hit 16 
 > Some one started an email to me with Kia ora, so I was typing out a reply saying “I’m not Māori please address me in English”. As I was about to hit send a felt an immense pain at the back of my head and someone yelled “English that, cracker”
 
 Perhaps the most fragile person in the world
+
+> I was just saying that white women are women of colour too when a blinding pain exploded in the back of my head. As I fell to the ground I saw someone holding a pouwhenua and they yelled "colour that".
+
+A racist politician dog whistling the white supremacists. 
