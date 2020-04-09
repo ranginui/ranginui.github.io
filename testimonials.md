@@ -35,3 +35,7 @@ Perhaps the most fragile person in the world
 > I was just saying that white women are women of colour too when a blinding pain exploded in the back of my head. As I fell to the ground I saw someone holding a pouwhenua and they yelled "so what colour is that? ".
 
 A racist politician dog whistling the white supremacists. 
+
+> I was driving north to my bach for the long weekend. I mean, it's a long weekend and I'm rich enough to own a bach, so of course rules don't apply to me. I was coming round the corner and suddenly a huata flew into my tyre, I lost control of my overpowered suv and came to a screeching halt on the side of the road. Just as I was getting out to check I heard someone yelling "stay at home means stay at home you cracker" 
+
+Some rich prick 
