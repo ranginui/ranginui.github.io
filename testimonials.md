@@ -39,3 +39,8 @@ A racist politician dog whistling the white supremacists.
 > I was driving north to my bach for the long weekend. I mean, it's a long weekend and I'm rich enough to own a bach, so of course rules don't apply to me. I was coming round the corner and suddenly a huata flew into my tyre, I lost control of my overpowered suv and came to a screeching halt on the side of the road. Just as I was getting out to check I heard someone yelling "stay at home means stay at home you cracker" 
 
 Some rich prick 
+
+> I was writing an op ed about how the NZ response can be explained by the fact that they are an island nation. But suddenly a felt a pain of of a kotiate hitting the back of my head. Each blow was accompanied by a word "you're... a... smaller... island... with... the... wealth... of... 300...years... of... empire... and... you... still... fucked... it... up" 
+
+Some English dickhead 
+ 
