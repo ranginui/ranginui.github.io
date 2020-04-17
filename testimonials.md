@@ -40,7 +40,7 @@ A racist politician dog whistling the white supremacists.
 
 Some rich prick 
 
-> I was writing an op ed about how the NZ response can be explained by the fact that they are an island nation. But suddenly a felt the pain of of a kotiate hitting the back of my head. Each blow was accompanied by a word "you're... a... smaller... island... with... the... wealth... of... 300...years... of... empire... and... you... still... fucked... it... up" 
+> I was writing an op ed about how the NZ response can be explained by the fact that they are an island nation. But suddenly I felt the pain of of a kotiate hitting the back of my head. Each blow was accompanied by a word "you're... a... smaller... island... with... the... wealth... of... 300...years... of... empire... and... you... still... fucked... it... up" 
 
 Some English dickhead 
  
