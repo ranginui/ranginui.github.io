@@ -141,5 +141,5 @@ body {
 ## Day 2
 ![Pie chart](https://pttfaas.com/images/pie.png "Food")
 
-##Day 3
+## Day 3
 ![nowhere](https://pttfaas.com/images/five.jpg "Five go nowhere")
