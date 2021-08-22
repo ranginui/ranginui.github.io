@@ -3,7 +3,9 @@
       <span> | <a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a> | </span>
    {% endfor %}
 </center>
-<img src="images/pttf.png" height="200" tyle="align:middle">
+<div style="text-align: center;">
+<img src="images/pttf.png" height="200">
+</div>
 <p id="skulls">
 </p>
 > I was just talking about 3000 year old Welsh skulls and Māori not being tangata whenua and bam,  patu right in my face.  Had to stop, and go down to the A&E
