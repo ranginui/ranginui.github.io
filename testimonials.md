@@ -3,19 +3,17 @@
       <span> | <a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a> | </span>
    {% endfor %}
 </center>
-
+<img src="images/pttf.png" height="200">
+<p id="skulls">
 > I was just talking about 3000 year old Welsh skulls and Māori not being tangata whenua and bam,  patu right in my face.  Had to stop, and go down to the A&E
 
 Noel – a Historian (no really, you can just say you’re a historian and the Herald will print any drivel you make up)
-
-> As I was being consistently wrong about everything, as I am wont to do, I heard a mighty yell of ‘D haaa’ and smack, patu on the point of the jaw. Shut me right up I must say.
-
-Alan – Author (sort of, he had one ok book but the rest are all pretty crap)
-
+</p>
+<p id="insurance">
 > We were performing our ‘Haka’ to advertise insurance, when someone came running up, and screamed ‘Ana tō kai, kai toa’ and hit the head of marketing in the face with some sort of club thing.
 
 Spokesperson for ARAG insurance
-
+</p>
 > I don’t know what happened, one minute I was saying “muesli bars have too much sugar in them for growing bodies” and the next minute, tewhatewha upside the head. Well I never!
 
 Judgey McJudgerson – Kindy parent/teacher
