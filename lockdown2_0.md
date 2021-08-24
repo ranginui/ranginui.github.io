@@ -155,3 +155,6 @@ body {
 
 ## Day7 
 ![landback](https://pttfaas.com/images/day7.jpg "Land Back")
+
+## Day 8
+![landback](https://pttfaas.com/images/zoom.jpg "Zoom")
