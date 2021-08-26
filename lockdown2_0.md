@@ -161,3 +161,6 @@ body {
 
 ## Day 9
 ![Jesus](https://pttfaas.com/images/jesus.jpg "Jesus")
+
+## Day 10
+![Friday](https://pttfaas.com/images/friday.jpg "Friday")
