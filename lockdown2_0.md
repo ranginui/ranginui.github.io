@@ -134,8 +134,14 @@ body {
   }
 }
 </style>
+<div style="text-align: center;">
+<img src="images/pttf.png" height="200">
+</div>
+## Day 12
+![Rogers](https://pttfaas.com/images/rogers.jpg "Mr Rogers")
+
 ## Day 11
-![Mental](https://pttfaas.com/images/mental.jpg "Friday")
+![Mental](https://pttfaas.com/images/mental.jpg "Mental health")
 
 ## Day 10
 ![Friday](https://pttfaas.com/images/friday.jpg "Friday")
