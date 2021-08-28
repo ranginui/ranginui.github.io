@@ -134,6 +134,9 @@ body {
   }
 }
 </style>
+## Day 11
+![Mental](https://pttfaas.com/images/mental.jpg "Friday")
+
 ## Day 10
 ![Friday](https://pttfaas.com/images/friday.jpg "Friday")
 
