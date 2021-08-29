@@ -143,8 +143,8 @@ The 12 year old is trying to earn money so he can buy and Occulus Quest 2. He ha
 
 These are $7 each
 
-![Joker](/images/joker.jpg)
-![Tyler](/images/tyler.jpg)
+<img src="/images/joker.jpg" height="200">
+<img src="/images/tyler.jpg" height="200">
 
 ## Drawings by request
 
