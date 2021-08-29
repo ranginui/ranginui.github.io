@@ -133,10 +133,12 @@ body {
     left: 0%;
   }
 }
-#### Occulus quest 2 mission
+</style>
+
+# Occulus quest 2 mission
 
 The 12 year old is trying to earn money so he can buy and Occulus Quest 2. He has had a few ideas. He is selling drawings
 
-### Existing Drawings
+## Existing Drawings
 
-### Drawings by request
+## Drawings by request
