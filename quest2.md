@@ -19,4 +19,4 @@ He will also draw you anything by request, for the price of $12
 He also asked me to say if anyone has other ideas how he can earn some money let us know.
 
 ## Contact
-chris@bigallofwax.co.nz
+chris@bigballofwax.co.nz
