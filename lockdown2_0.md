@@ -2,8 +2,9 @@
 <div style="text-align: center;">
 <img src="images/pttf.png" height="200">
 </div>
+
 ##Day 13
-![Internet Explorer](https://pttfaas.com/images/rogers.jpg "Internet Explorer")
+![IE](https://pttfaas.com/images/ie.jpg "Internet Explorer")
 
 ## Day 12
 ![Rogers](https://pttfaas.com/images/rogers.jpg "Mr Rogers")
