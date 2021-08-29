@@ -9,6 +9,8 @@ These are $7 each
 
 <img src="/images/joker.jpg" height="200">**Sold**
 <img src="/images/tyler.jpg" height="200">**Sold**
+<img src="/images/drawing1.jpg" height="200">
+<img src="/images/drawing2.jpg" height="200">
 
 ## Drawings by request
 
