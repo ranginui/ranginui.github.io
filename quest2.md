@@ -141,4 +141,18 @@ The 12 year old is trying to earn money so he can buy and Occulus Quest 2. He ha
 
 ## Existing Drawings
 
+These are $7 each
+
+![Joker](/images/joker.jpg)
+![Tyler](/images/tyler.jpg)
+
 ## Drawings by request
+
+He will also draw you anything by request, for the price of $12
+
+## Other ideas
+
+He also asked me to say if anyone has other ideas how he can earn some money let us know.
+
+## Contact
+chris@bigallofwax.co.nz
