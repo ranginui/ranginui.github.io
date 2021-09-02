@@ -2,6 +2,9 @@
 <div style="text-align: center;">
 <img src="images/pttf.png" height="200">
 </div>
+## Day 17
+![patch](https://pttfaas.com/images/patch-all-the-things.jpg "Patch all the things")
+
 ## Day 16
 ![memes](https://pttfaas.com/images/memes.jpeg "Memes")
 
