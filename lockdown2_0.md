@@ -2,6 +2,12 @@
 <div style="text-align: center;">
 <img src="images/pttf.png" height="200">
 </div>
+## Day 19
+![father](https://pttfaas.com/images/father.jpg "Fathers Day")
+
+## Day 18
+![real](https://pttfaas.com/images/real.jpg "Too real")
+
 ## Day 17
 ![patch](https://pttfaas.com/images/patch-all-the-things.jpg "Patch all the things")
 
