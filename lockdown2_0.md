@@ -2,6 +2,9 @@
 <div style="text-align: center;">
 <img src="images/pttf.png" height="200">
 </div>
+## Day 21
+![email](https://pttfaas.com/images/email.jpg "Emails")
+
 ## Day 20
 ![monday](https://pttfaas.com/images/monday.jpg "Monday")
 
