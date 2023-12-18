@@ -8,7 +8,7 @@
 </div>
 <p id="skulls">
 </p>
-> I was just talking about 3000 year old Welsh skulls and Māori not being tangata whenua and bam,  patu right in my face.  Had to stop, and go down to the A&E
+> I was just talking about 3000 year old Welsh skulls and Māori not being tāngata whenua and bam,  patu right in my face.  Had to stop, and go down to the A&E
 
 Noel – a Historian (no really, you can just say you’re a historian and the Herald will print any drivel you make up)
 <p id="insurance">
