@@ -1,3 +1,6 @@
+##Hīkoi
+*By Chris Cormack*
+
 The pōhutukawa hasn't bloomed yet\
 but already the streets pulse red\
 with flags that speak of sovereignty,\
