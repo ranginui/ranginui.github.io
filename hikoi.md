@@ -1,4 +1,4 @@
-##Hīkoi
+## Hīkoi
 *By Chris Cormack*
 
 The pōhutukawa hasn't bloomed yet\
