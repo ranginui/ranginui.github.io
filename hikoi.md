@@ -37,7 +37,7 @@ from what our ancestors signed.\
 The harbour watches, as it always has,\
 The children of Tangaroa dancing\
 on the edge of the city that grew up around a document\
-defended generation aftergeneration.
+defended generation after generation.\
 \
 This is how sovereignty looks:\
 Like grandmothers in comfortable shoes\
