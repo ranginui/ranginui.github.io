@@ -1,1 +1,3 @@
-Poems go here
+# Poetry
+- [Hīkoi](/hikoi)
+- [Te hokinga mai](/hokinga) 
