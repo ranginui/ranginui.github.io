@@ -5,4 +5,4 @@
 - [He Ako, He Ora](/ako)
 - [Quantum superpositions](/quantum) 
 - [The RFP Dance](/rfp) 
-- [The last stand of yesterday's guard](/last guard)
+- [The last stand of yesterday's guard](/lastguard)
