@@ -5,7 +5,7 @@ In quantum realms, particles dance\
 Like the stories of Tāne:\
 Present in all places at once,\
 Until observed, until named,\
-Until karakia calls them into being.\
+Until karakia calls them into being.
 
 Our tūpuna always knew\
 About entanglement—\
