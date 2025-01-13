@@ -1,4 +1,4 @@
-## Quantum suoerpositions 
+## Quantum superpositions 
 *by Chris Cormack*
 
 In quantum realms, particles dance\
