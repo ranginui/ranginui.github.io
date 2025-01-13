@@ -28,7 +28,7 @@ While progress shows them to the door).
 
 In Meta's halls and Facebook's feeds,\
 They plant their algorithmic seeds,\
-Where facts become opcional things,\
+Where facts become optional things,\
 And bias spreads on viral wings.
 
 They claim a meritocracy,\
