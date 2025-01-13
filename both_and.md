@@ -1,6 +1,6 @@
 ## Both/And
 *by Chris Cormack*
-
+<pre>
 Your pronouns matter\
          (don't let them tell you otherwise)\
 Your right to exist in your own skin matters\
@@ -91,3 +91,4 @@ AND
 
 Their profit margins\
          shouldn't
+</pre>
