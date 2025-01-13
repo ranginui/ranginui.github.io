@@ -6,3 +6,4 @@
 - [Quantum superpositions](/quantum) 
 - [The RFP Dance](/rfp) 
 - [The last stand of yesterday's guard](/lastguard)
+- [The Innovation Vampires](/innovation) 
