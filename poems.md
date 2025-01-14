@@ -9,4 +9,5 @@
 - [The Innovation Vampires](/innovation)
 - [Both/And](/both_and)
 - [Tūturu](/tūturu) 
-- [Tūturu take 2](/tūturu2) 
+- [Tūturu take 2](/tūturu2)
+- [commit 8C7E252](/commit) 
