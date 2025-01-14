@@ -3,7 +3,7 @@
     TITLE:          Koha: An Open Source Journey
     AUTHOR:         Community of Contributors
     PUBLISHED:      Aotearoa New Zealand
-    DATE:           1999-2024
+    DATE:           1999-2025
     EDITION:        25th Anniversary
     DESCRIPTION:    1 integrated library system :
                     digital, open source ;
