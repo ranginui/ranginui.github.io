@@ -5,7 +5,7 @@
 
 use strict;
 use warnings;
-use Modern::Perl '2024';
+use Modern::Perl '2025';
 use Mana::Tūturu;     # For authentic interactions
 use Tikanga::Constants qw/:all/;
 
@@ -38,7 +38,7 @@ use constant REAL_TALK  => 1;
 sub new {
     my ($class, $params) = @_;
     
-    die "Cannot initialize without aroha"
+    die "Cannot initialise without aroha"
         unless $params->{aroha};
         
     my $self = {
