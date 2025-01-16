@@ -7,7 +7,7 @@ While nodding as homes crumble by the sea,\
 As children's shelters vanish in thin air.
 
 "Both sides, both sides," they thoughtfully opine\
-While one side's water's cut, one drinks fine wine,|
+While one side's water's cut, one drinks fine wine, \
 "Who really is to blame?" they ask, wide-eyed\
 As olive groves are bulldozed far and wide.
 
