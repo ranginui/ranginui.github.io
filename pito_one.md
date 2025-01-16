@@ -29,4 +29,4 @@ Footprints on memory's shore.
 Though signs may read what they've always read,\
 The true name lives in hearts instead,\
 For those who know, who understand:\
-Pito one the end of sand.
+Pito one the end of the sand.
