@@ -1,6 +1,6 @@
 ## Submissions
 *by Chris Cormack*
-
+<pre>
 in the grey-walled room\
                     where words shape\ futures\
 they say: don't call us racist\
@@ -56,3 +56,4 @@ is just\
                     white\
                             supremacy\
                                         in a tie
+</pre">
