@@ -9,7 +9,7 @@ they say: don't call us racist\
                     (it assumes bad faith)
 
 mate,\
-let's talk about bad faith—\
+let's talk about bad faith—
 
 remember how they took the tamariki\
 scraped the reo from their tongues\
