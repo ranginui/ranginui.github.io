@@ -7,7 +7,7 @@ In day's light, where ancestors weep,\
 A man stood proud with poisoned tongue\
 While nearby, our tamariki young
 
-Aperahama, twice he rose\
+Aperahama, up he rose\
 To shield young ears from hatred's prose\
 For as our tūpuna always say:\
 "Guard well the words our children weigh"
