@@ -1,4 +1,5 @@
 # The Weight of Tomorrow's Promise
+*by Chris Cormack*
 
 The fire that once burned bright within\
 Now flickers, wavering in winds of resistance.\
