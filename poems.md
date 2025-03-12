@@ -15,4 +15,5 @@
 - [A sound in the sand](/pito_one) 
 - [Untitled](/whynot)
 - [Building on whenua](/whenua) 
-- [Submission](/submission) 
+- [Submission](/submission)
+- [Burnout](/burnout) 
