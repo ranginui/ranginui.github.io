@@ -19,3 +19,4 @@
 - [Burnout](/burnout)
 - [Shared Horizons](/shared) 
 - [Disconnect](/disconnect) 
+- [Silence](/silence) 
