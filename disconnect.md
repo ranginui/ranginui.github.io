@@ -1,4 +1,4 @@
-## Mediterranean Railway
+# Mediterranean Railway
 *by Chris Cormack*
 
 I will arrive in Barcelona, city of impossible curves,\
