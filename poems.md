@@ -16,4 +16,5 @@
 - [Untitled](/whynot)
 - [Building on whenua](/whenua) 
 - [Submission](/submission)
-- [Burnout](/burnout) 
+- [Burnout](/burnout)
+- [Shared Horizons](/shared) 
