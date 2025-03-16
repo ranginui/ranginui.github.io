@@ -17,7 +17,7 @@
 - [A sound in the sand](/poems/pito_one) 
 - [Untitled](/poems/whynot)
 - [Building on whenua](/poems/whenua) 
-- [Submission](/submission)
+- [Submission](/poems/submission)
 - [Burnout](/poems/burnout)
 - [Shared Horizons](/poems/shared) 
 - [Disconnect](/poems/disconnect) 
