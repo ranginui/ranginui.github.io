@@ -7,6 +7,7 @@
 - [The RFP Dance](/poems/rfp) 
 - [The last stand of yesterday's guard](/poems/laststand)
 - [The Innovation Vampires](/poems/innovation)
+- [Swallowing](/poems/swallowing)
 - [Both/And](/poems/both_and)
 - [Tūturu](/poems/tūturu) 
 - [Tūturu take 2](/poems/tūturu2)
