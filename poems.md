@@ -22,4 +22,5 @@
 - [Shared Horizons](/poems/shared) 
 - [Disconnect](/poems/disconnect) 
 - [Silence](/poems/silence)
-- [Doublespeak](/poems/doublespeak) 
+- [Doublespeak](/poems/doublespeak)
+- [Monuments to colonisation](/poems/monument) 
