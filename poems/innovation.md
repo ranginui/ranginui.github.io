@@ -1,7 +1,7 @@
 ## The Innovation Vampires
 *by Chris Cormack*
 
-They call themselves visionaries, founders, pioneers—\
+They call themselves visionaries, founders, pioneers\
 These buyers of others' blood, sweat, and years,\
 With daddy's emerald mines and family ties,\
 They purchase the truth, then promote their lies.
