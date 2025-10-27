@@ -8,7 +8,7 @@ Until observed, until named,\
 Until karakia calls them into being.
 
 Our tūpuna always knew\
-About entanglement—\
+About entanglement\
 How a kupu spoken on Aoraki\
 Ripples through Te Waipounamu,\
 How a change in one part\
@@ -49,7 +49,7 @@ Of all things.
 Wave functions collapse\
 Like fishing nets drawn tight,\
 But memory remains\
-In superposition—\
+In superposition\
 Past and future tangled\
 Like roots of kahikatea,\
 Supporting each other\
@@ -67,7 +67,7 @@ Until story fixes them in place.
 
 This is how our ancestors\
 Read the stars, the seeds,\
-The flight of birds—\
+The flight of birds\
 Understanding that truth,\
 Like light,\
 Can be both wave and particle,\
