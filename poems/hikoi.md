@@ -7,7 +7,7 @@ with flags that speak of sovereignty,\
 of promises made beneath different stars.\
 \
 Fifty thousand, they said,\
-then seventy, then a hundred—\
+then seventy, then a hundred\
 counting became pointless\
 when the hills themselves seemed to move\
 with the weight of the people.\
