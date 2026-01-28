@@ -4,7 +4,7 @@ In that moment of acquiescence,\
 When my pen struck through truth,\
 I did not hear the sound of my own voice fading.
 
-One small erasure—\
+One small erasure\
 What harm could come\
 From a single absence on a single page?
 
