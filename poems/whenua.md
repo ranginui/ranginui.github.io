@@ -4,7 +4,7 @@
 In the hum of servers\
 our data flows like streams\
 but where does it rest?\
-Not overseas, not in distant clouds—\
+Not overseas, not in distant clouds\
 here, on our whenua\
 where our stories belong
 
