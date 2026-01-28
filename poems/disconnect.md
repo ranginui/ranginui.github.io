@@ -6,7 +6,7 @@ where Gaudí's visions stretch like strange trees toward heaven.\
 One week to wander La Rambla, to trace my fingers\
 along stone walls older than my country.\
 No work phone will buzz in my pocket,\
-no laptop will weigh down my shoulders—\
+no laptop will weigh down my shoulders\
 just eyes wide open to Gothic quarters and seaside air.
 
 Then the train will pull away, rhythmic and sure,\
