@@ -6,7 +6,7 @@ And harbour waters churning winter-grey,\
 We thread through Willis, where the wind holds sway\
 Past ghosts of Te Aro pā's ancient site.
 
-Three weeks of rest dissolve in morning's light—\
+Three weeks of rest dissolve in morning's light\
 Forgot passwords, meetings gone astray,\
 While southerlies mock summer's delayed stay,\
 And email inboxes loom infinite.
