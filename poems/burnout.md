@@ -26,7 +26,7 @@ Sits heavy on my chest, stealing sleep.\
 The emails, the calls, the constant proving\
 That our ways have value, our knowledge matters.
 
-This burnout is not simply exhaustion—\
+This burnout is not simply exhaustion\
 It is the accumulated grief of watching\
 The slow violence of colonisation continue\
 While we fight with diminishing strength.
