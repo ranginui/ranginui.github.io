@@ -2,7 +2,7 @@
 *by Chris Cormack*
 
 In the space between screens and stars\
-We learn as our tūpuna did—\
+We learn as our tūpuna did\
 By doing, by being, by sharing breath and thought,\
 No walls between teacher and learner,\
 No artificial hierarchies of knowing.
