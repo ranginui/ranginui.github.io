@@ -2,7 +2,7 @@
 *by Chris Cormack*
 
 Where the beach meets the harbour's hand,\
-There's more than just grains of sand—\
+There's more than just grains of sand\
 A name sits strange upon the tongue,\
 Empty letters where meaning once hung.
 
