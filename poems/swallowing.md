@@ -1,5 +1,5 @@
 ## When Swallowing Became Poetry
-*by Chris Cormack
+*by Chris Cormack*
 
 There is a peculiar clarity that arrives when the simple act of eating becomes impossible.\
 Achalasia,the word itself a poetry of medical precision, closed the pathway between desire and nourishment, between hunger and satisfaction. \
