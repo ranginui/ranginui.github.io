@@ -39,5 +39,5 @@ Maybe we deserve it, but our children do not.
 
 Those in the countries we exploit do not.\
 Those whose water feeds the server farms do not.\
-Those whose minerals fill the circuit boards do not.
+Those whose minerals fill the circuit boards do not.\
 Those whose futures shrink with each prompt do not.
